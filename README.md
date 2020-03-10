@@ -7,3 +7,4 @@
 ## 객체 생성과 파괴
 
 - [Item1 - 생성자 대신 정적 팩터리 메서드를 고려하라](https://github.com/leeshinyook/EffectiveJava3rd/blob/master/Document/Item1.md)
+- Item2 - 생정자에 매개변수가 많다면 빌더를 고려하라
