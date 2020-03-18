@@ -8,4 +8,5 @@
 
 - [Item1 - 생성자 대신 정적 팩터리 메서드를 고려하라](https://github.com/leeshinyook/EffectiveJava3rd/blob/master/Document/Item1.md)
 - [Item2 - 생성자에 매개변수가 많다면 빌더를 고려하라](https://github.com/leeshinyook/EffectiveJava3rd/blob/master/Document/Item2.md)
+- [Item3 - private 생성자나 열거 타입으로 싱글텀임을 보증하라](https://github.com/leeshinyook/EffectiveJava3rd/blob/master/Document/Item3.md)
 
