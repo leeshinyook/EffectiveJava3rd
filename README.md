@@ -13,6 +13,4 @@
 - [Item5 - 자원을 직접 명시말고 의존 객체 주입을 사용하라](https://github.com/leeshinyook/EffectiveJava3rd/blob/master/Document/Item5.md)
 - [Item6 - 불필요한 객체 생성을 피하라](https://github.com/leeshinyook/EffectiveJava3rd/blob/master/Document/Item6.md)
 - [Item7 - 다 쓴 객체 참조를 해제하라](https://github.com/leeshinyook/EffectiveJava3rd/blob/master/Document/Item7.md)
-
-
-
+- [Item8 - Finalizer와 Cleaner는 피하라](https://github.com/leeshinyook/EffectiveJava3rd/blob/master/Document/Item8.md)
