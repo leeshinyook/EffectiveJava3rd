@@ -14,3 +14,5 @@
 - [Item6 - 불필요한 객체 생성을 피하라](https://github.com/leeshinyook/EffectiveJava3rd/blob/master/Document/Item6.md)
 - [Item7 - 다 쓴 객체 참조를 해제하라](https://github.com/leeshinyook/EffectiveJava3rd/blob/master/Document/Item7.md)
 - [Item8 - Finalizer와 Cleaner는 피하라](https://github.com/leeshinyook/EffectiveJava3rd/blob/master/Document/Item8.md)
+- [Item9 - try-finally보다는 try-with-resource를 사용하라](https://github.com/leeshinyook/EffectiveJava3rd/blob/master/Document/Item9.md)
+
