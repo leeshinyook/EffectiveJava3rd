@@ -16,3 +16,9 @@
 - [Item8 - Finalizer와 Cleaner는 피하라](https://github.com/leeshinyook/EffectiveJava3rd/blob/master/Document/Item8.md)
 - [Item9 - try-finally보다는 try-with-resource를 사용하라](https://github.com/leeshinyook/EffectiveJava3rd/blob/master/Document/Item9.md)
 
+
+
+## 모든 객체의 공통 메서드
+
+- [Item10 - equals는 일반 규약을 지켜 재정의하라](https://github.com/leeshinyook/EffectiveJava3rd/blob/master/Document/Item10.md)
+

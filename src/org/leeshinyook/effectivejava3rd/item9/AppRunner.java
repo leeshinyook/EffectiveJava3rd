@@ -3,9 +3,9 @@ package org.leeshinyook.effectivejava3rd.item9;
 public class AppRunner {
 
     public static void main(String[] args) {
-        try(MyResource myResource = new MyResource()) {
-            myResource.doSomeThing();
-        }
+//        try(MyResource myResource = new MyResource()) {
+//            myResource.doSomeThing();
+//        }
     }
 //    public static void main(String[] args) throws Exception {
 //        MyResource myResource = new MyResource();
