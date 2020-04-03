@@ -21,4 +21,5 @@
 ## 모든 객체의 공통 메서드
 
 - [Item10 - equals는 일반 규약을 지켜 재정의하라](https://github.com/leeshinyook/EffectiveJava3rd/blob/master/Document/Item10.md)
+- [Item11 - equals를 재정의하려거든 hashCode도 재정의하라](https://github.com/leeshinyook/EffectiveJava3rd/blob/master/Document/Item11.md)
 
