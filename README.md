@@ -23,4 +23,5 @@
 - [Item10 - equals는 일반 규약을 지켜 재정의하라](https://github.com/leeshinyook/EffectiveJava3rd/blob/master/Document/Item10.md)
 - [Item11 - equals를 재정의하려거든 hashCode도 재정의하라](https://github.com/leeshinyook/EffectiveJava3rd/blob/master/Document/Item11.md)
 - [Item12 - toString을 항상 재정의하라](https://github.com/leeshinyook/EffectiveJava3rd/blob/master/Document/Item12.md)
+- [Item13 - clone재정의는 주의해서 진행하라](https://github.com/leeshinyook/EffectiveJava3rd/blob/master/Document/Item13.md)
 
