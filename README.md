@@ -26,3 +26,9 @@
 - [Item13 - clone재정의는 주의해서 진행하라](https://github.com/leeshinyook/EffectiveJava3rd/blob/master/Document/Item13.md)
 - [Item14 - Comparable을 구현할지 고려하라](https://github.com/leeshinyook/EffectiveJava3rd/blob/master/Document/Item14.md)
 
+
+
+## 클래스와 인터페이스
+
+- [Item15 - 클래스와 멤버의 접근 권한을 최소화하라](https://github.com/leeshinyook/EffectiveJava3rd/blob/master/Document/Item15.md)
+
