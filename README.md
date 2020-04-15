@@ -32,4 +32,5 @@
 
 - [Item15 - 클래스와 멤버의 접근 권한을 최소화하라](https://github.com/leeshinyook/EffectiveJava3rd/blob/master/Document/Item15.md)
 - [Item16 - public클래스에서는 public필드가 아닌 접근 메서드를 사용하라](https://github.com/leeshinyook/EffectiveJava3rd/blob/master/Document/Item16.md)
+- [Item17 - 변경 가능성을 최소화하라](https://github.com/leeshinyook/EffectiveJava3rd/blob/master/Document/Item17.md)
 
